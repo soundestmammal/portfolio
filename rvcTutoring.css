@@ -1,0 +1,33 @@
+/*h1{
+	color: green;
+}*/
+
+body{
+	background: url(http://slodive.com/wp-content/uploads/2012/04/wood-background/cool-wood-background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+p{
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #0f868e;
+	font-weight: 800;
+}
+li{
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #0f868e;
+}
+h4{
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #42c5f4;
+}
+
+.paraOne{
+	background-color: white;
+}
+
+
+
